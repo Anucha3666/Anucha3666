@@ -27,8 +27,7 @@ Tools <img src="https://www.svgrepo.com/show/375914/tools.svg" alt="next-opened"
 -
 <img src="https://www.svgrepo.com/show/374035/reactts.svg" alt="React" width="30" height="30"><img src="https://www.svgrepo.com/show/373929/node.svg" alt="Node" width="30" height="30"><img src="https://www.svgrepo.com/show/373427/angular.svg" alt="Angular" width="30" height="30"><img src="https://www.svgrepo.com/show/373429/ansible.svg" alt="Ansible" width="30" height="30"><img src="https://www.svgrepo.com/show/374167/vite.svg" alt="Vite" width="30" height="30"><img src="https://www.svgrepo.com/show/374175/vue.svg" alt="Vue" width="30" height="30"><img src="https://www.svgrepo.com/show/373770/light-next.svg" alt="Next" width="30" height="30"><img src="https://www.svgrepo.com/show/373604/flutter.svg" alt="Flutter" width="30" height="30"><img src="https://www.svgrepo.com/show/373581/ember.svg" alt="Ember" width="30" height="30"><img src="https://www.svgrepo.com/show/373572/editorconfig.svg" alt="EditorConfig" width="30" height="30"><img src="https://www.svgrepo.com/show/373564/drawio.svg" alt="Drawio" width="30" height="30">
 <div align="right">
-<img src="https://www.dataquest.io/wp-content/uploads/2023/02/Data-Science.gif" alt="React" width="600" height="300">
-  <img src="https://raw.githubusercontent.com/Anucha3666/Anucha3666/main/118424.png" alt="React" width="300" height="300">
+<img src="https://www.dataquest.io/wp-content/uploads/2023/02/Data-Science.gif" alt="React" width="600" height="300"><img src="https://raw.githubusercontent.com/Anucha3666/Anucha3666/main/118424.png" alt="React" width="300" height="300">
 </div>
 
 
