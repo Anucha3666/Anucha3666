@@ -26,12 +26,18 @@ Programming Languages <img src="https://www.svgrepo.com/show/528491/programming.
 Tools <img src="https://www.svgrepo.com/show/375914/tools.svg" alt="next-opened" width="20" height="20">
 -
 <img src="https://www.svgrepo.com/show/374035/reactts.svg" alt="React" width="30" height="30"><img src="https://www.svgrepo.com/show/373929/node.svg" alt="Node" width="30" height="30"><img src="https://www.svgrepo.com/show/373427/angular.svg" alt="Angular" width="30" height="30"><img src="https://www.svgrepo.com/show/373429/ansible.svg" alt="Ansible" width="30" height="30"><img src="https://www.svgrepo.com/show/374167/vite.svg" alt="Vite" width="30" height="30"><img src="https://www.svgrepo.com/show/374175/vue.svg" alt="Vue" width="30" height="30"><img src="https://www.svgrepo.com/show/373770/light-next.svg" alt="Next" width="30" height="30"><img src="https://www.svgrepo.com/show/373604/flutter.svg" alt="Flutter" width="30" height="30"><img src="https://www.svgrepo.com/show/373581/ember.svg" alt="Ember" width="30" height="30"><img src="https://www.svgrepo.com/show/373572/editorconfig.svg" alt="EditorConfig" width="30" height="30"><img src="https://www.svgrepo.com/show/373564/drawio.svg" alt="Drawio" width="30" height="30">
-<div align="right">
-<img src="https://www.dataquest.io/wp-content/uploads/2023/02/Data-Science.gif" alt="React" width="500" height="260"><img src="https://raw.githubusercontent.com/Anucha3666/Anucha3666/main/118424.png" alt="React" width="300" height="300">
-</div>
+
+Badges
+-
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Anucha3666?theme=dark&font=Bitter&ext=heatmap)
+<img src="https://raw.githubusercontent.com/Anucha3666/Anucha3666/main/118424.png" alt="React" width="300" height="300">
+
+  <a href="http://www.github.com/Anucha3666"><img src="https://github-readme-stats.vercel.app/api?username=Anucha3666&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Anucha3666's GitHub stats" /></a>
+  <a href="http://www.github.com/Anucha3666"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Anucha3666&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 
-
+  <a href="https://github.com/Anucha3666" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anucha3666&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
 
