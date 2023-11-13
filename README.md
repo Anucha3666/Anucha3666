@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://www.github.com/Anucha3666" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Anucha3666?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 Languages <img src="https://www.svgrepo.com/show/437914/languages.svg" alt="next-opened" width="20" height="20">
 -
