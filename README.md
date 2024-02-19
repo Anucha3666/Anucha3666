@@ -37,13 +37,8 @@ Badges
 
 <img src="https://leetcode.com/static/images/badges/2024/gif/2024-01.gif" alt="2024-01" width="50" height="50"><img src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" alt="2023-50" width="50" height="50"><img src="https://leetcode.com/static/images/badges/2023/gif/2023-12.gif" alt="2023-12" width="50" height="50">
 
-
-
-    
-  <a href="http://www.github.com/Anucha3666"><img width="400" src="https://github-readme-stats.vercel.app/api?username=Anucha3666&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Anucha3666's GitHub stats" /></a>
-
-  <a href="http://www.github.com/Anucha3666"><img width="440" src="https://github-readme-streak-stats.herokuapp.com/?user=Anucha3666&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-  <a href="https://github.com/Anucha3666" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anucha3666&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/Anucha3666"><img width="400" src="https://github-readme-stats.vercel.app/api?username=Anucha3666&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Anucha3666's GitHub stats" /></a>  <a href="http://www.github.com/Anucha3666"><img width="440" src="https://github-readme-streak-stats.herokuapp.com/?user=Anucha3666&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+  <a href="https://github.com/Anucha3666" align="left"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anucha3666&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
 
