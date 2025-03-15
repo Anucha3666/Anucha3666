@@ -31,14 +31,35 @@ Tools <img src="https://www.svgrepo.com/show/375914/tools.svg" alt="next-opened"
 
 Badges
 -
+> #### Leetcode
+> <div align="center">
+>   <img src="https://leetcard.jacoblin.cool/Anucha3666?theme=dark&font=Bitter&ext=heatmap" alt="React" height="100%">
+>   &nbsp;&nbsp;&nbsp;&nbsp;
+>   <img src="https://raw.githubusercontent.com/Anucha3666/Anucha3666/main/118424.png" alt="React" width="300" height="300">
+> </div>
+> &nbsp;&nbsp;&nbsp;&nbsp;
+> <div>
+>   <img src="https://leetcode.com/static_assets/marketing/2024-100-new.gif" alt="2024-100" width="50" height="50">
+>   <img src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="2024-03" width="50" height="50">
+>   <img src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="2024-02" width="50" height="50">
+>   <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="2024-50" width="50" height="50">
+>   <img src="https://leetcode.com/static/images/badges/2024/gif/2024-01.gif" alt="2024-01" width="50" height="50">
+>   <img src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" alt="2023-50" width="50" height="50">
+>   <img src="https://leetcode.com/static/images/badges/2023/gif/2023-12.gif" alt="2023-12" width="50" height="50">
+> </div>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Anucha3666?theme=dark&font=Bitter&ext=heatmap)
-<img src="https://raw.githubusercontent.com/Anucha3666/Anucha3666/main/118424.png" alt="React" width="300" height="300">
+> #### Kaggle
+> <div>
+>   <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F09e1f99bdf3222934ad7769409ec3f6d%2FBadge-26.svg?generation=1727468059623106&amp;alt=media" alt="Badge-26" width="50" height="50">
+>   <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F059c9b5e8bad980032971b42cb35cb10%2FBadge-44.svg?generation=1727468322667890&amp;alt=media" alt="Badge-44" width="50" height="50">
+> </div>
 
-<img src="https://leetcode.com/static_assets/marketing/2024-100-new.gif" alt="2024-100" width="50" height="50"><img src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="2024-03" width="50" height="50"><img src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="2024-02" width="50" height="50"><img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="2024-50" width="50" height="50"><img src="https://leetcode.com/static/images/badges/2024/gif/2024-01.gif" alt="2024-01" width="50" height="50"><img src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" alt="2023-50" width="50" height="50"><img src="https://leetcode.com/static/images/badges/2023/gif/2023-12.gif" alt="2023-12" width="50" height="50">
-
-<a href="http://www.github.com/Anucha3666"><img width="400" src="https://github-readme-stats.vercel.app/api?username=Anucha3666&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Anucha3666's GitHub stats" /></a>  <a href="http://www.github.com/Anucha3666"><img width="440" src="https://github-readme-streak-stats.herokuapp.com/?user=Anucha3666&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-  <a href="https://github.com/Anucha3666" align="left"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anucha3666&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-
-
+> #### Git Hub
+> <div align="center">
+>   <a href="http://www.github.com/Anucha3666"><img width="400" src="https://github-readme-stats.vercel.app/api?username=Anucha3666&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Anucha3666's GitHub stats" /></a>
+>   &nbsp;&nbsp;&nbsp;&nbsp;
+>    <a href="http://www.github.com/Anucha3666"><img width="440" src="https://github-readme-streak-stats.herokuapp.com/?user=Anucha3666&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+> </div>
+> <div align="center">
+>   <a href="https://github.com/Anucha3666" align="left"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anucha3666&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+> </div>
