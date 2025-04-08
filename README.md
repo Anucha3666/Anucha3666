@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 <a href="https://www.github.com/Anucha3666" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Anucha3666?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Anucha3666" alt="Anucha3666" /></a> </p>
+
 Languages <img src="https://www.svgrepo.com/show/437914/languages.svg" alt="next-opened" width="20" height="20">
 -
 <img src="https://www.svgrepo.com/show/405628/flag-for-flag-thailand.svg" alt="Thai" width="30" height="30"><img src="https://www.svgrepo.com/show/405448/flag-for-flag-china.svg" alt="China" width="30" height="30"><img src="https://www.svgrepo.com/show/508668/flag-us.svg" alt="USA" width="30" height="30">
